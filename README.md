@@ -1,2 +1,2 @@
-# Alurone
- cardápio onde temos todos os pratos do nosso Alurone e alguns filtros que podemos utilizar para buscar "Massas", "Carnes" etc.
+# Aluroni
+ Cardápio de um restaurante podendo filtrar e ordenar os pratos em preço, tipo, etc...
