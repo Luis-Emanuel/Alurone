@@ -3,7 +3,7 @@ import Buscador from './Buscador';
 import { useState } from 'react';
 import Filtros from './Filtros';
 import Ordenador from './Ordenador';
-import Itens from './ItensTemp';
+import Itens from './Itens';
 import stylesTema from 'styles/Tema.module.scss';
 
 export default function Cardapio() {
